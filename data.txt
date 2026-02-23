@@ -1,0 +1,12 @@
+ID:1 | Value:4.10 | Time:1771760202
+ID:2 | Value:46.70 | Time:1771760203
+ID:3 | Value:33.40 | Time:1771760204
+ID:4 | Value:0.00 | Time:1771760205
+ID:5 | Value:16.90 | Time:1771760206
+ID:6 | Value:22.40 | Time:1771760207
+ID:7 | Value:47.80 | Time:1771760208
+ID:8 | Value:35.80 | Time:1771760209
+ID:9 | Value:46.20 | Time:1771760210
+ID:10 | Value:46.40 | Time:1771760211
+ID:11 | Value:20.50 | Time:1771760212
+ID:12 | Value:14.50 | Time:1771760213
